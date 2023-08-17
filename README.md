@@ -66,6 +66,8 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mjmh5xhul2bvhbpi327xohmn4i&unique={true|1|on|yes})
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Vigesh2002/Vigesh2002/output/snake.svg" alt="Snake animation" />
