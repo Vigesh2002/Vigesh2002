@@ -66,7 +66,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mjmh5xhul2bvhbpi327xohmn4i&unique={true|1|on|yes})
+
 
 <br clear="both">
 
