@@ -1,3 +1,6 @@
+<img height="300px" width="820px" src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif
+"/>
+
 <h1 align="center">Hi 👋 i'm Vigesh and i'm a Front End Developer</h1>
 
 ###
@@ -69,9 +72,6 @@
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vigesh2002/Vigesh2002/output/snake.svg" alt="Snake animation" />
-![snake](https://github.com/Vigesh2002/Vigesh2002/blob/main/snake)
 
 ###
 
